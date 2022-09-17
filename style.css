@@ -1,0 +1,31 @@
+body{
+    background-color: #374774ec;
+    /* padding: 0; */
+    /* margin:0; */
+    /* display:flex; */
+}
+
+.card-header{
+    background-color: black;
+    color:white;
+    text-align: center;
+}
+
+.weather-button{
+    background-image: linear-gradient(to right, #a3b2c6, #8b98ab, #737e91, #5c6678, #464e60);
+    border-color:white;
+}
+ .card-body{
+    text-align: center;
+    background-image: linear-gradient(to right, #a3b2c6, #8b98ab, #737e91, #5c6678, #464e60);
+    color:white;
+    
+}
+ 
+
+
+.row{
+    gap:20px;
+    justify-content: space-evenly;
+    /* flex-wrap: nowrap; */
+}
